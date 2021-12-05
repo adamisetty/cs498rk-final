@@ -1,4 +1,31 @@
-.App {
+
+.login-body {
+  width: 100%;
+  height: 100%;
+  background-size: 100%;
+  padding: 10px;
+  /* background-color: #C6DEDD; */
+  /* background-color: #CCE4E3; */
+}
+.login-header{
+  text-align: center; 
+}
+
+.login-form{
+  width: 50%;
+  /* margin: 0 auto; */
+  margin: auto;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.login-submit {
+  align-items: center;
+  text-align: center;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +62,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
