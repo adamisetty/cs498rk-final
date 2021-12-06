@@ -10,8 +10,13 @@ class Welcome extends React.Component {
 
     render() {
         return (
-            <div>
-                <h1>Welcome [name]!</h1>
+            <div className="welcome-body">
+                <h1 className="welcome-header">Welcome [name]!</h1>
+                <button className="welcome-favorite-button">Favorites</button>
+                <div className="welcome-buttons-container">
+                    <button className="welcome-button">Search</button>
+                    <button className="welcome-button">Recommend</button>
+                </div>
             </div>
         )
     }

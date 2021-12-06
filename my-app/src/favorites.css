@@ -1,0 +1,16 @@
+.favorites-header{
+    text-align: center;
+    padding:15px;
+    font-size: xx-large;
+    font-family: "Monaco" , monospace;
+    font-weight: bold;
+}
+
+.favorites-description {
+    text-align: center;
+    padding:15px;
+    font-size: large;
+    font-family: "Monaco" , monospace;
+    font-weight: bold;   
+    color:rgb(92, 97, 97)
+}
