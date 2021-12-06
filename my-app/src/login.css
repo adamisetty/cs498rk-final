@@ -40,7 +40,11 @@
     font-family: "Monaco" , monospace;
     font-size: medium;
     font-weight: bold;
- 
+}
 
- 
+.login-submit-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center
 }

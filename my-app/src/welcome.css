@@ -42,19 +42,19 @@
 }
 
 .welcome-favorite-button {
-    padding: 20px;
+    padding: 15px;
     display:block;
     background: #c1c7c6;
     color: black;
     text-align:center;
     position: absolute;
     top: 27px;
-    right: 40px;
+    right: 45px;
     font-family: "Monaco" , monospace;
-    font-size: x-large;
+    font-size: large;
     font-weight: bold;
     border-radius: 30px;
-    width: 15%;
+    width: 10%;
     min-height: 10%;
     border: none;
     margin:20px;
