@@ -16,10 +16,10 @@ class App extends React.Component {
     render() {
         return (
             <div className="login-body">
-                <Favorites></Favorites>
+                {/* <Favorites></Favorites> */}
                 {/* <Search></Search> */}
                 {/* <Welcome></Welcome> */}
-                {/* <Login></Login> */}
+                <Login></Login>
             </div>
         )
     }

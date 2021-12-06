@@ -23,3 +23,24 @@
     align-items: center;
     text-align: center;
   }
+
+.login-header{
+    text-align: center;
+    padding:15px;
+    font-size: xx-large;
+    font-family: "Monaco" , monospace;
+    font-weight: bold;
+}
+
+.login-submit {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Monaco" , monospace;
+    font-size: medium;
+    font-weight: bold;
+ 
+
+ 
+}

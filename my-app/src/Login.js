@@ -29,8 +29,8 @@ class Login extends React.Component {
                         <input type="password" id="fname" name="fname" size="70"></input>
                     </form>
                 </div>
-                <div className="login-submit">
-                    <button onClick={() => this.submitLogin()}> Submit </button>
+                <div >
+                    <button className="login-submit" onClick={() => this.submitLogin()}> Submit </button>
                 </div>
             </div>
         )
